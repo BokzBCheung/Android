@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">lab03_zhangbo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sence_dls">温州市</string>
+    <string name="sence_xy">杭州市</string>
+    <string name="sence_yds">宁波市</string>
+    <string name="sence_zy">金华市</string>
+</resources>

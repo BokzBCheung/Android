@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sence">
+        <item>@string/sence_dls</item>
+        <item>@string/sence_xy</item>
+        <item>@string/sence_yds</item>
+        <item>@string/sence_zy</item>
+    </string-array>
+
+    <integer-array name="image">
+        <item>@drawable/wenzhou</item>
+        <item>@drawable/hangzhou</item>
+        <item>@drawable/ningbo</item>
+        <item>@drawable/xianggang</item>
+    </integer-array>
+</resources>
